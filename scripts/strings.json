@@ -13,14 +13,13 @@
 "HOBBIES_TITLE": "Hobbies and Interests",
 "HOBBIES_SOCCER": "Football (not handegg)",
 "HOBBIES_SQUASH": "Squash",
-"HOBBIES_"
 
 "CONTACT_MAIN": "Contact me!"
 "CONTACT_TEXT": "Feel free to X",
 "CONTACT_NAME": "Full Name",
 "CONTACT_PHONE": "Phone Number",
 "CONTACT_EMAIL": "Email Address",
-"CONTACT_MESSAGE": "Type your message"
+"CONTACT_MESSAGE": "Type your message",
 
 "ERROR_404_MAIN": "404 Eror - Page Not Found",
 "ERROR_404_TEXT": "This is not the page you're looking for",
