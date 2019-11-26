@@ -1,8 +1,5 @@
 # kodeman14.github.io
 
-welcome to my personal site, built with reactJS!
-disclaimer : this is a constant work in progress
+trying to bootstrap my personal site!
 
 # sources
-
-https://github.com/rbhatia46/React-Portfolio
