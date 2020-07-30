@@ -3,6 +3,6 @@
 trying to bootstrap my personal site!
 built in react and css, more to come!
 
-# current link
+# source
 
-kodeman14.github.io/stern-folio
+[current link](kodeman14.github.io/stern-folio)
